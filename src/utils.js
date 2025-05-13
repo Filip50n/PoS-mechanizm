@@ -1,10 +1,11 @@
 function weightedRandom(validators) {
-  const total = validators.reduce((sum, v) => sum + v.stake, 0);
+  const total = validators.reduce((sum, v) => sum + v.stake * v.reputation, 0);
   let r = Math.random() * total;
 
   for (const v of validators) {
-    if (r < v.stake) return v;
-    r -= v.stake;
+    const weight = v.stake * v.reputation;
+    if (r < weight) return v;
+    r -= weight;
   }
 
   return validators[validators.length - 1];
