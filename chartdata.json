@@ -1,0 +1,3432 @@
+[
+  {
+    "blockId": 1,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 100,
+        "blocks": 0
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 101,
+        "blocks": 1
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 100,
+        "blocks": 0
+      }
+    ]
+  },
+  {
+    "blockId": 2,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 8
+      },
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 100,
+        "blocks": 0
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 101,
+        "blocks": 1
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 3,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 101,
+        "blocks": 1
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 101,
+        "blocks": 1
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 4,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 6
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 101,
+        "blocks": 1
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 5,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 6
+      },
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 7
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 6,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 103,
+        "blocks": 3
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 7,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 8
+      },
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 104,
+        "blocks": 4
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 8,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 6
+      },
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 1
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 105,
+        "blocks": 5
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 102,
+        "blocks": 2
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 9,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 105,
+        "blocks": 5
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 103,
+        "blocks": 3
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 10,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 8
+      },
+      {
+        "from": "Michał",
+        "to": "Maciej",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 106,
+        "blocks": 6
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 103,
+        "blocks": 3
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 11,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 9
+      },
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 103,
+        "blocks": 3
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 12,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 108,
+        "blocks": 8
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 103,
+        "blocks": 3
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 13,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 108,
+        "blocks": 8
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 104,
+        "blocks": 4
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 14,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 2
+      },
+      {
+        "from": "Ewa",
+        "to": "Filip",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 108,
+        "blocks": 8
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 105,
+        "blocks": 5
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 15,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 109,
+        "blocks": 9
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 105,
+        "blocks": 5
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 16,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 5
+      },
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 110,
+        "blocks": 10
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 105,
+        "blocks": 5
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 17,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 6
+      },
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 110,
+        "blocks": 10
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 106,
+        "blocks": 6
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 18,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 111,
+        "blocks": 11
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 106,
+        "blocks": 6
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 19,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 2
+      },
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 106,
+        "blocks": 6
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 20,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 7
+      },
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 1
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 113,
+        "blocks": 13
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 106,
+        "blocks": 6
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 21,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 113,
+        "blocks": 13
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 22,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 8
+      },
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 114,
+        "blocks": 14
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 23,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 6
+      },
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 101,
+        "blocks": 1
+      }
+    ]
+  },
+  {
+    "blockId": 24,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 25,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 5
+      },
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 116,
+        "blocks": 16
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 26,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 4
+      },
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 107,
+        "blocks": 7
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 27,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 108,
+        "blocks": 8
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 28,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 6
+      },
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 118,
+        "blocks": 18
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 108,
+        "blocks": 8
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 29,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 10
+      },
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 7
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 118,
+        "blocks": 18
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 109,
+        "blocks": 9
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 30,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 109,
+        "blocks": 9
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 31,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 3
+      },
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 109,
+        "blocks": 9
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 32,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 4
+      },
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 110,
+        "blocks": 10
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 102,
+        "blocks": 2
+      }
+    ]
+  },
+  {
+    "blockId": 33,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 110,
+        "blocks": 10
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 34,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 10
+      },
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 111,
+        "blocks": 11
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 35,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 9
+      },
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 36,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 121,
+        "blocks": 21
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 37,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 122,
+        "blocks": 22
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 38,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 3
+      },
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 39,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 124,
+        "blocks": 24
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 40,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 5
+      },
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 125,
+        "blocks": 25
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 41,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 2
+      },
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 126,
+        "blocks": 26
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 42,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 127,
+        "blocks": 27
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 43,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 9
+      },
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 128,
+        "blocks": 28
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 112,
+        "blocks": 12
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 44,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 128,
+        "blocks": 28
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 113,
+        "blocks": 13
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 45,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 128,
+        "blocks": 28
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 114,
+        "blocks": 14
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 46,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 8
+      },
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 129,
+        "blocks": 29
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 114,
+        "blocks": 14
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 47,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 5
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 130,
+        "blocks": 30
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 114,
+        "blocks": 14
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 48,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 131,
+        "blocks": 31
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 114,
+        "blocks": 14
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 49,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 1
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 7
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 131,
+        "blocks": 31
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 50,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Filip",
+        "amount": 7
+      },
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 132,
+        "blocks": 32
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 51,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 133,
+        "blocks": 33
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 52,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 5
+      },
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 134,
+        "blocks": 34
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 53,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 8
+      },
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 135,
+        "blocks": 35
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 54,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 136,
+        "blocks": 36
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 55,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 2
+      },
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 137,
+        "blocks": 37
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 56,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 8
+      },
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 138,
+        "blocks": 38
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 57,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 139,
+        "blocks": 39
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 115,
+        "blocks": 15
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 58,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 10
+      },
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 139,
+        "blocks": 39
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 116,
+        "blocks": 16
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 59,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 1
+      },
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 7
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 140,
+        "blocks": 40
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 116,
+        "blocks": 16
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 60,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 141,
+        "blocks": 41
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 116,
+        "blocks": 16
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 61,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 7
+      },
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 141,
+        "blocks": 41
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 62,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 1
+      },
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 142,
+        "blocks": 42
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 103,
+        "blocks": 3
+      }
+    ]
+  },
+  {
+    "blockId": 63,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 142,
+        "blocks": 42
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 104,
+        "blocks": 4
+      }
+    ]
+  },
+  {
+    "blockId": 64,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Maciej",
+        "amount": 9
+      },
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 143,
+        "blocks": 43
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 104,
+        "blocks": 4
+      }
+    ]
+  },
+  {
+    "blockId": 65,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 1
+      },
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 144,
+        "blocks": 44
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 104,
+        "blocks": 4
+      }
+    ]
+  },
+  {
+    "blockId": 66,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 144,
+        "blocks": 44
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 105,
+        "blocks": 5
+      }
+    ]
+  },
+  {
+    "blockId": 67,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 5
+      },
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 145,
+        "blocks": 45
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 105,
+        "blocks": 5
+      }
+    ]
+  },
+  {
+    "blockId": 68,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 8
+      },
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 1
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 146,
+        "blocks": 46
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 105,
+        "blocks": 5
+      }
+    ]
+  },
+  {
+    "blockId": 69,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 147,
+        "blocks": 47
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 105,
+        "blocks": 5
+      }
+    ]
+  },
+  {
+    "blockId": 70,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 8
+      },
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 147,
+        "blocks": 47
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 106,
+        "blocks": 6
+      }
+    ]
+  },
+  {
+    "blockId": 71,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 4
+      },
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 147,
+        "blocks": 47
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 72,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 148,
+        "blocks": 48
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 73,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 6
+      },
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 149,
+        "blocks": 49
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 74,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 4
+      },
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 150,
+        "blocks": 50
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 117,
+        "blocks": 17
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 75,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 150,
+        "blocks": 50
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 118,
+        "blocks": 18
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 76,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 151,
+        "blocks": 51
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 118,
+        "blocks": 18
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 77,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 3
+      },
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 152,
+        "blocks": 52
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 118,
+        "blocks": 18
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 78,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 152,
+        "blocks": 52
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 79,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 1
+      },
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 153,
+        "blocks": 53
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 107,
+        "blocks": 7
+      }
+    ]
+  },
+  {
+    "blockId": 80,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Ewa",
+        "amount": 9
+      },
+      {
+        "from": "Maciej",
+        "to": "Jakub",
+        "amount": 1
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 153,
+        "blocks": 53
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 108,
+        "blocks": 8
+      }
+    ]
+  },
+  {
+    "blockId": 81,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 154,
+        "blocks": 54
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 108,
+        "blocks": 8
+      }
+    ]
+  },
+  {
+    "blockId": 82,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Ewa",
+        "amount": 9
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 155,
+        "blocks": 55
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 119,
+        "blocks": 19
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 108,
+        "blocks": 8
+      }
+    ]
+  },
+  {
+    "blockId": 83,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 9
+      },
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 5
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 155,
+        "blocks": 55
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 108,
+        "blocks": 8
+      }
+    ]
+  },
+  {
+    "blockId": 84,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 155,
+        "blocks": 55
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 120,
+        "blocks": 20
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 85,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 3
+      },
+      {
+        "from": "Michał",
+        "to": "Ewa",
+        "amount": 2
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 155,
+        "blocks": 55
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 121,
+        "blocks": 21
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 86,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 156,
+        "blocks": 56
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 121,
+        "blocks": 21
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 87,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 157,
+        "blocks": 57
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 121,
+        "blocks": 21
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 88,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Jakub",
+        "amount": 9
+      },
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 1
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 157,
+        "blocks": 57
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 122,
+        "blocks": 22
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 89,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Michał",
+        "amount": 2
+      },
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 158,
+        "blocks": 58
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 122,
+        "blocks": 22
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 90,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Michał",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 158,
+        "blocks": 58
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 109,
+        "blocks": 9
+      }
+    ]
+  },
+  {
+    "blockId": 91,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Michał",
+        "amount": 7
+      },
+      {
+        "from": "Michał",
+        "to": "Maciej",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 158,
+        "blocks": 58
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 110,
+        "blocks": 10
+      }
+    ]
+  },
+  {
+    "blockId": 92,
+    "proposer": "Filip",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 4
+      },
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 158,
+        "blocks": 58
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 93,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Filip",
+        "amount": 8
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 159,
+        "blocks": 59
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 94,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Michał",
+        "to": "Jakub",
+        "amount": 7
+      },
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 160,
+        "blocks": 60
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 95,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Ewa",
+        "to": "Maciej",
+        "amount": 8
+      },
+      {
+        "from": "Michał",
+        "to": "Filip",
+        "amount": 9
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 161,
+        "blocks": 61
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 96,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 6
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 162,
+        "blocks": 62
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 97,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Maciej",
+        "to": "Filip",
+        "amount": 3
+      },
+      {
+        "from": "Filip",
+        "to": "Maciej",
+        "amount": 10
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 163,
+        "blocks": 63
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 123,
+        "blocks": 23
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 98,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Michał",
+        "amount": 1
+      },
+      {
+        "from": "Ewa",
+        "to": "Filip",
+        "amount": 3
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 163,
+        "blocks": 63
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 124,
+        "blocks": 24
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 99,
+    "proposer": "Maciej",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Ewa",
+        "amount": 7
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 164,
+        "blocks": 64
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 124,
+        "blocks": 24
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  },
+  {
+    "blockId": 100,
+    "proposer": "Jakub",
+    "transactions": [
+      {
+        "from": "Filip",
+        "to": "Jakub",
+        "amount": 9
+      },
+      {
+        "from": "Jakub",
+        "to": "Maciej",
+        "amount": 4
+      }
+    ],
+    "validators": [
+      {
+        "name": "Maciej",
+        "stake": 100,
+        "reputation": 164,
+        "blocks": 64
+      },
+      {
+        "name": "Jakub",
+        "stake": 50,
+        "reputation": 125,
+        "blocks": 25
+      },
+      {
+        "name": "Filip",
+        "stake": 25,
+        "reputation": 111,
+        "blocks": 11
+      }
+    ]
+  }
+]
